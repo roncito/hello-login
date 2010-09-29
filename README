@@ -1,0 +1,6 @@
+1. including timeout in seconds as an additional parameter... two timeouts: one for the phone ringing and another for time to press the digits.
+2. format: 	<status>ANSWERED</status>
+						<keyspressed>1234</keyspressed>
+3. We should get all the keys up to the # (where you should hang up) or they hang up or there is a timeout (perhaps 15 seconds)
+4. Whitelist IPs
+
